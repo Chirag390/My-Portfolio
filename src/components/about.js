@@ -20,7 +20,7 @@ export default function About() {
           className: "text-blue",
         },
       ];
-    const info = "I'm a passionate and creative web developer with 5 months of experience, specializing in frontend technologies. I thrive on turning ideas into beautiful and functional websites. In addition to my professional experience, I've been freelancing for the past year, honing my skills and expanding my repertoire."
+    const info = "I'm a passionate Devops and Multi-Cloud engineer with 5 months of experience as a full stack developer, specializing in DevOps and Cloud tools. In addition to my professional experience, I've been working as a DevOps and Multi-Cloud Trainer at Global Institute AI, trained proffessionals,teams,student in DevOps tools and Multi-Cloud infrastructure with Hand-On Expereince on projects as well"
 
     return (
         <section id="about" className="w-full py-3 px-6" style={{paddingBottom: "5rem"}}>
